@@ -11,4 +11,4 @@ COPY LICENSE.txt /usr/share/nginx/html/
 COPY README.txt /usr/share/nginx/html/
 
 # Expose port 80 for HTTP access (Nginx listens on port 80 by default)
-EXPOSE 81
+EXPOSE 80
